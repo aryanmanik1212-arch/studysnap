@@ -1,0 +1,2 @@
+# studysnap
+backend for StudySnapAI
